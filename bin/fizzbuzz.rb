@@ -9,3 +9,4 @@
 	else printf("%d\n", i)
 	end
 	}
+#add test feature-Fizz
